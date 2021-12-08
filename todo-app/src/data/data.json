@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "task": "Give dog a bath",
+    "complete": true
+},
+{
+    "id": 2,
+    "task": "Go To Market",
+    "complete": false
+},
+{
+    "id": 3,
+    "task": "Create Website",
+    "complete": true
+},
+{
+    "id": 4,
+    "task": "Review Code",
+    "complete": false
+},
+{
+    "id": 5,
+    "task": "Code Cleanup",
+    "complete": true
+}
+]
